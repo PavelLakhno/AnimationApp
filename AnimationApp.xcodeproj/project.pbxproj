@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CE6A82F62911848100099643 /* SpringAnimation in Frameworks */ = {isa = PBXBuildFile; productRef = CE6A82F52911848100099643 /* SpringAnimation */; };
-		CE6A82F9291186FC00099643 /* Animate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6A82F8291186FC00099643 /* Animate.swift */; };
+		CE6A82F9291186FC00099643 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6A82F8291186FC00099643 /* Animation.swift */; };
 		CE6A82FC2911874D00099643 /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6A82FB2911874D00099643 /* DataStore.swift */; };
 		CE7A251E29113D07008C9A06 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7A251D29113D07008C9A06 /* AppDelegate.swift */; };
 		CE7A252029113D07008C9A06 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7A251F29113D07008C9A06 /* SceneDelegate.swift */; };
@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CE6A82F8291186FC00099643 /* Animate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animate.swift; sourceTree = "<group>"; };
+		CE6A82F8291186FC00099643 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 		CE6A82FB2911874D00099643 /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		CE7A251A29113D07008C9A06 /* AnimationApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7A251D29113D07008C9A06 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		CE6A82F7291186E300099643 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				CE6A82F8291186FC00099643 /* Animate.swift */,
+				CE6A82F8291186FC00099643 /* Animation.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -196,7 +196,7 @@
 				CE7A251E29113D07008C9A06 /* AppDelegate.swift in Sources */,
 				CE7A252029113D07008C9A06 /* SceneDelegate.swift in Sources */,
 				CE6A82FC2911874D00099643 /* DataStore.swift in Sources */,
-				CE6A82F9291186FC00099643 /* Animate.swift in Sources */,
+				CE6A82F9291186FC00099643 /* Animation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
